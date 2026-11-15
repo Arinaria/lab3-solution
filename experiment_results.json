@@ -1,0 +1,16 @@
+{
+  "linear_regression": {
+    "mse": 4.1697
+  },
+  "classification": {
+    "logistic_regression": {
+      "f1": 0.8339
+    },
+    "decision_tree": {
+      "f1": 0.7939
+    },
+    "knn": {
+      "f1": 0.8125
+    }
+  }
+}
